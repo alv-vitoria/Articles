@@ -2,12 +2,13 @@
 
 <!-- Badges de Habilidades e Contato -->
 ![Status](https://img.shields.io/badge/Status-Publicado-green)   
+[![DIO Campus Expert](https://img.shields.io/badge/DIO%20Campus%20Expert-Embaixadora-6A0DAD?style=for-the-badge&logo=databricks&logoColor=white)](https://www.dio.me/articles/dados-como-vantagem-competitiva-a-intersecao-entre-ti-e-comercial-25a2ec7a7dc0?utm_source=link&utm_campaign=mgm-dados-como-vantagem-competitiva-a-intersecao-entre-ti-e-comercial-25a2ec7a7dc0&utm_medium=article)   
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-[![DIO Campus Expert](https://img.shields.io/badge/DIO%20Campus%20Expert-Embaixadora-6A0DAD?style=for-the-badge)](https://www.dio.me/articles/dados-como-vantagem-competitiva-a-intersecao-entre-ti-e-comercial-25a2ec7a7dc0?utm_source=link&utm_campaign=mgm-dados-como-vantagem-competitiva-a-intersecao-entre-ti-e-comercial-25a2ec7a7dc0&utm_medium=article)
+
 
 ## ✍️ Sobre o Artigo
 Este artigo explora como a análise de dados transforma a gestão comercial e de suprimentos, transformando métricas em vantagem competitiva real. O texto reflete minha jornada unindo a **Gestão Comercial** com ferramentas de **TI e Ciência de Dados**.
