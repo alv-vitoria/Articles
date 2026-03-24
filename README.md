@@ -1,4 +1,4 @@
-# 📝 Articles
+# Articles
 
 Repositório dedicado aos meus artigos sobre tecnologia, dados e mercado.
 
@@ -9,7 +9,7 @@ Aqui compartilho aprendizados e reflexões conectando:
 
 ---
 
-## 📚 Artigos
+##  Artigos
 
 | Título | Descrição | Link |  
 |--------|-----------|--------------|
@@ -17,7 +17,7 @@ Aqui compartilho aprendizados e reflexões conectando:
 
 ---
 
-## 💡 Sobre minha abordagem
+##  Sobre minha abordagem
 
 Minha escrita busca traduzir conceitos técnicos para uma visão de negócio, explorando como dados e IA impactam decisões estratégicas no mercado.
 
