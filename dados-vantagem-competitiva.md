@@ -1,3 +1,10 @@
+<p align="center">
+<img src="https://raw.githubusercontent.com/alv-vitoria/Articles/main/assets/banner%20DIO.jpg" 
+  height="399px" 
+  alt="Banner Embaixadores DIO Expert">
+</p>
+
+
 # Dados como Vantagem Competitiva: a interseção entre TI e Comercial
 
 <!-- Badges de Habilidades e Contato -->
